@@ -1,4 +1,4 @@
-# Naive-Bayes-Classifier-_Implementation
+# Naive Bayes Classifier Implementation
 
 This program contains Naïve Bayes Classifier implementation using the Laplacian patch .
 The data file contains both continuous and categorical attributes.
@@ -16,3 +16,6 @@ The data file contains both continuous and categorical attributes.
 
           ▪ Categorical
               @ATTRIBUTE [AttTitle] {some comma separated categories}
+              
+3) Train : A file containing records used to build the classifier.
+4) Test  : A file that contains records that you will need to classify .
